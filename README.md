@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muhammad Rafly and I'm from Medan, Indonesia</h2>
+<h2 align="left">Hi 👋, My name is Muhammad Rafly and I'm from Medan, Indonesia</h2>
 
 ###
 
@@ -39,11 +39,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rexdzx/Rexdzx/blob/output/snake.svg" alt="Snake animation" />
-
-###
