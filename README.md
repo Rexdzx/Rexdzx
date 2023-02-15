@@ -28,6 +28,7 @@
 ###
 
 <div align="left">
+   <a href="https://www.facebook.com/profile.php?id=100028098371144" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <a href="https://api.whatsapp.com/send/?phone=621361117127&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
